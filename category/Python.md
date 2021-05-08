@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Android
-permalink: /Android/
+title: Python
+permalink: /Python/
 ---
 
 this is android.md
